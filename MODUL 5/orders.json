@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "nama_pelanggan": "jelita",
+        "nama_pesanan": "seblak",
+        "harga": "1222222",
+        "gambar_path": "C:\\img\\seblak.jpg",
+        "status": "diproses"
+    },
+    {
+        "id": 2,
+        "nama_pelanggan": "vira",
+        "nama_pesanan": "seblak",
+        "harga": "40000",
+        "gambar_path": "C:\\img\\seblak.jpg",
+        "status": "diproses"
+    }
+]
